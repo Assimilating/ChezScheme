@@ -883,3 +883,5 @@
   so the reduced version checks that p is a procedure.
   Also make the same change for #2%for-each.
     cp0.ss, 4.ms
+- Added -Wno-implicit-fallthrough flag to macOS C makefiles.
+    c/Mf-a6osx, c/Mf-i3osx, c/Mf-ta6osx, c/Mf-ti3osx
